@@ -1,7 +1,7 @@
 # HackMSIT
 # TEAM NAME: hacklikeagirl
 # College Name : Bharati Vidyaapeeth's College of Engineering
-# Team details:
+# Team Members:
 1. Surbhi Kumari
 2. Shreya Rastogi
 3. Yamini Agrawal
